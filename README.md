@@ -1,6 +1,6 @@
-# Omnipay: Rabobank
+# Omnipay: Rabobank Omnikassa
 
-**Rabobank driver for the Omnipay PHP payment processing library**
+**Rabobank Omnikassa driver for the Omnipay PHP payment processing library**
 
 [![Build Status](https://travis-ci.org/thephpleague/omnipay-rabobank.png?branch=master)](https://travis-ci.org/thephpleague/omnipay-rabobank)
 [![Latest Stable Version](https://poser.pugx.org/omnipay/rabobank/version.png)](https://packagist.org/packages/omnipay/rabobank)
